@@ -986,9 +986,6 @@ parabéns ${pushname} 🥳 você ganhou o jogo\nPalavra : ${dataAnagrama.origina
 ║
 ║••➽ Ola @${pushname}
 ║
-╠🐞Canal: youtube.com/@clovermods
-╠🐞Dono: wa.me/557598659560
-╠🐞Criador: wa.me/557598659560
 ╠🐞Prefixo: ${prefix}
 ║
 ╚════• 〘${nomeBot}〙•═════╝
